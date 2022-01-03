@@ -2,3 +2,5 @@ ini adalah catatan pertama saya pada baris pertama
 ini adalah catatan ke empat saya pada baris kedua
 dan ini adalah catatan revisi saya pada catatan ke tiga
 ini adalah catatan ketiga saya pada baris ke empat
+
+ini adalah motivasi bersama
